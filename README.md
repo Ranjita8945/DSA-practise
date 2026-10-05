@@ -29,4 +29,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/Ranjita8945/DSA-practise/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 | [1789-primary-department-for-each-employee](https://github.com/Ranjita8945/DSA-practise/tree/master/1789-primary-department-for-each-employee) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Ranjita8945/DSA-practise/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+## String
+|  |
+| ------- |
+| [0856-score-of-parentheses](https://github.com/Ranjita8945/DSA-practise/tree/master/0856-score-of-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0856-score-of-parentheses](https://github.com/Ranjita8945/DSA-practise/tree/master/0856-score-of-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0856-score-of-parentheses](https://github.com/Ranjita8945/DSA-practise/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
