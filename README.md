@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Ranjita8945/DSA-practise/tree/master/0067-add-binary) |
 | [0856-score-of-parentheses](https://github.com/Ranjita8945/DSA-practise/tree/master/0856-score-of-parentheses) |
 ## Stack
 |  |
@@ -41,4 +42,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0856-score-of-parentheses](https://github.com/Ranjita8945/DSA-practise/tree/master/0856-score-of-parentheses) |
+## Math
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Ranjita8945/DSA-practise/tree/master/0067-add-binary) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Ranjita8945/DSA-practise/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Ranjita8945/DSA-practise/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
