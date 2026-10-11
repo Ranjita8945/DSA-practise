@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Ranjita8945/DSA-practise/tree/master/0067-add-binary) |
 | [0856-score-of-parentheses](https://github.com/Ranjita8945/DSA-practise/tree/master/0856-score-of-parentheses) |
+| [1768-merge-strings-alternately](https://github.com/Ranjita8945/DSA-practise/tree/master/1768-merge-strings-alternately) |
 ## Stack
 |  |
 | ------- |
@@ -71,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Ranjita8945/DSA-practise/tree/master/0069-sqrtx) |
+## Two Pointers
+|  |
+| ------- |
+| [1768-merge-strings-alternately](https://github.com/Ranjita8945/DSA-practise/tree/master/1768-merge-strings-alternately) |
 <!---LeetCode Topics End-->
