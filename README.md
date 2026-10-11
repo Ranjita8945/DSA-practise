@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Ranjita8945/DSA-practise/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/Ranjita8945/DSA-practise/tree/master/0069-sqrtx) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -62,4 +63,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Ranjita8945/DSA-practise/tree/master/0021-merge-two-sorted-lists) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Ranjita8945/DSA-practise/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Ranjita8945/DSA-practise/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
