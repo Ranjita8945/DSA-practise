@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Ranjita8945/DSA-practise/tree/master/0067-add-binary) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Ranjita8945/DSA-practise/tree/master/0345-reverse-vowels-of-a-string) |
 | [0856-score-of-parentheses](https://github.com/Ranjita8945/DSA-practise/tree/master/0856-score-of-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/Ranjita8945/DSA-practise/tree/master/1768-merge-strings-alternately) |
 ## Stack
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/Ranjita8945/DSA-practise/tree/master/0345-reverse-vowels-of-a-string) |
 | [1768-merge-strings-alternately](https://github.com/Ranjita8945/DSA-practise/tree/master/1768-merge-strings-alternately) |
 ## Array
 |  |
